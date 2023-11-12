@@ -9,10 +9,10 @@ def apply(filename):
   # lut = load_cube_file('assets/Lutify.me-Claire-RWG-to-RWG.cube')
   # lut = load_cube_file('assets/Lutify.me-FilmTone3-ACEScct-to-ACEScct.cube')
   # lut = load_cube_file('assets/Lutify.me-PrintFilm2-RWG-to-RWG.cube')
-  cubefile = 'Lutify.me-Claire-ACEScct-to-ACEScct'
+  cubefile = 'Presetpro - Kodak Color'
   lut = load_cube_file('assets/'+cubefile+'.cube')
   
   filename = cubefile+'.jpg'
   img.filter(lut).save(filename)
 
-apply('test.jpg')
+apply('outside.jpg')
