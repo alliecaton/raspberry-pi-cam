@@ -10,7 +10,7 @@ I will update the README as things progress with my build!
 - [x] Set up Raspberry Pi Camera module & test it works
 - [x] Learn about LUTs and HALDCluts
 - [x] Programatically apply .cube files and/or HaldCLUTs .png files to an image with Python
-- [ ] Programatically apply realistic film grain
+- [x] Programatically apply realistic film grain
 - [x] Set up film simulation code to run on Raspberry Pi
 - [ ] Set up button & code that will take a photo on button press
 - [ ] Figure out portable power source
