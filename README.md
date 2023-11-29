@@ -1,6 +1,6 @@
 # Raspberry Pi 4 Film Simulation Camera Code
 
-**NOTE: This project is in progress, the code included in this repository does not yet reflect what is running on the Pi. Currently the Pi code is peacemeal while I wait for necessary hardware. I will update this repository with full Pi code once it's in a more usable state when hardware arrives.**
+**NOTE: This project is in progress, the code is not yet final**
 
 This repository holds the Python code that runs on my Raspberry Pi 4 camera. This project is in progress, but the end goal is to transform a broken film camera into a working digital film simulation camera.
 
