@@ -12,7 +12,7 @@ I will update the README as things progress with my build!
 - [x] Programatically apply .cube files and/or HaldCLUTs .png files to an image with Python
 - [x] Programatically apply realistic film grain
 - [x] Set up film simulation code to run on Raspberry Pi
-- [ ] Set up button & code that will take a photo on button press
+- [x] Set up button & code that will take a photo on button press
 - [ ] Figure out portable power source
 - [ ] Somehow get the Raspberry Pi inside of a film camera (aka learn how to cut metal 😳)
 
