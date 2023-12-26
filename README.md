@@ -1,5 +1,7 @@
 # Raspberry Pi 4 Film Simulation Camera Code
 
+**NOTE: This project is in progress, the code is not yet final**
+
 This repository holds the Python code that runs on my Raspberry Pi 4 camera. This project is in progress, but the end goal is to transform a broken film camera into a working digital film simulation camera.
 
 I will update the README as things progress with my build!
@@ -8,9 +10,9 @@ I will update the README as things progress with my build!
 - [x] Set up Raspberry Pi Camera module & test it works
 - [x] Learn about LUTs and HALDCluts
 - [x] Programatically apply .cube files and/or HaldCLUTs .png files to an image with Python
-- [ ] Programatically apply realistic film grain
+- [x] Programatically apply realistic film grain
 - [x] Set up film simulation code to run on Raspberry Pi
-- [ ] Set up button & code that will take a photo on button press
+- [x] Set up button & code that will take a photo on button press
 - [ ] Figure out portable power source
 - [ ] Somehow get the Raspberry Pi inside of a film camera (aka learn how to cut metal 😳)
 
