@@ -17,6 +17,8 @@ cam.start()
 
 def capture(): 
 	print('img capture starting')
+	# give camera 2 seconds to autofocus and adjust levels
+	time.sleep(2)
 	img = cam.capture_image("main")
 
 	im = img.convert("RGB")
