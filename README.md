@@ -2,9 +2,7 @@
 
 [Read about the full process on my digital garden!](https://garden.alliecaton.com/posts/raspberry-pi-film-simulation-camera-tutorial-%F0%9F%92%BB%F0%9F%93%B8)
 
-This repository holds the Python code that runs on my Raspberry Pi 4 camera. This project is in progress, but the end goal is to transform a broken film camera into a working digital film simulation camera.
-
-I will update the README as things progress with my build!
+**TODO:** 
 
 - [x] Set up Raspberry Pi 4 once all components come in
 - [x] Set up Raspberry Pi Camera module & test it works
